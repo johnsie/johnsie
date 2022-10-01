@@ -1,6 +1,6 @@
 ### Hi there, I'm [John McCourt](https://johnmccourt.com) 👋
 
-I am a first year MSc Computer Science (Software Engineering) student at [Open University](https://open.ac.uk). Apart from that I am a software engineer at an in insurance company and enjoy writing articles (on Programming, Machine Learning, Data Science, Productivity and Computing Tips) and contributing to open source.
+I am a Software Developer at an insurance firm and  first year MSc Computer Science (Software Engineering) student at [Open University](https://open.ac.uk). Apart from that I enjoy writing articles (on Programming, Machine Learning, Data Science, Productivity and Computing Tips) and contributing to open source.
 
 **My Interests**:
 - Software Development
