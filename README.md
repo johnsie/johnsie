@@ -1,22 +1,83 @@
-### Hi there 👋
+### Hi there, I'm [John McCourt](https://johnsie.github.io) 👋
+
+I am a first year MSc Computer Science (Software Engineering) student at [Open University](https://open.ac.uk). Apart from that I am a software engineer at an in insurance company and enjoy writing articles (on Programming, Machine Learning, Data Science, Productivity and Computing Tips) and contributing to open source.
+
+**My Interests**:
+- Software Development
+- Fitness and Distance Running
+
+ **I am open to**:
+
+- any collobration work,
+- machine learning projects(development or research),
+- research internships and
+- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+
+## Skills:
+
+#### Languages:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### ML/DL
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+
+#### IDEs
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-## Profile
-Property                 | Data  
--------------------------|------
-Language / IDE           | [![C# Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)](https://github.com/search?l=C%23&q=user%3Azmcx16&type=Repositories) [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![Html+CSS+Javascript Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-F7DF1E?style=flat&logo=Javascript&logoColor=white)](https://github.com/search?l=JavaScript&q=user%3Azmcx16&type=Repositories) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![C Badge](https://img.shields.io/badge/-Visual%20Studio-A8B9CC?style=flat&logo=C&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![JAVA Badge](https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Tool / Framework         | [![Electron Badge](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=Electron&logoColor=white)](https://github.com/zmcx16/AxisCult) [![ASP.NET Badge](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![PyQt Badge](https://img.shields.io/badge/-PyQt-41CD52?style=flat&logo=Qt&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Azure Badge](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat&logo=Microsoft-Azure&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-F2BD1A?style=flat&logo=Logstash&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-E8478B?style=flat&logo=Kibana&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![photoshop Badge](https://img.shields.io/badge/-Photoshop-26C9FF?style=flat&logo=Adobe-Photoshop&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories)
-Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Web Crawling Badge](https://img.shields.io/badge/-Web%20Crawling-036CB5?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult)
-CI / CD                  | [![Azure Pipelines Badge](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat&logo=Azure-Pipelines&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![AppVeyor Badge](https://img.shields.io/badge/-AppVeyor-00B3E0?style=flat&logo=AppVeyor&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary) [![Travis-CI Badge](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat&logo=Travis-CI&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/zmcx16/zmcx16)
-Side Projects - App <img width=200/> | [![MahoMangaDownloader Badge](https://img.shields.io/badge/-MahoMangaDownloader-lightskyblue?style=flat&logoColor=white)](https://project.zmcx16.moe/?page=mahomangadownloader) [![AxisTradeCult Badge](https://img.shields.io/badge/-AxisTradeCult-darkorange?style=flat&logoColor=white)](https://github.com/zmcx16/AxisTradeCult) [![ChaldeaStockObservatory Badge](https://img.shields.io/badge/-ChaldeaStockObservatory-lightsteelblue?style=flat&logoColor=white)](https://github.com/zmcx16/ChaldeaStockObservatory) [![MangaPrettier Badge](https://img.shields.io/badge/-MangaPrettier-orange?style=flat&logoColor=white)](https://github.com/zmcx16/MangaPrettier) [![PhotoMosaic-Artifact Badge](https://img.shields.io/badge/-PhotoMosaic%20Artifact-deepskyblue?style=flat&logoColor=white)](https://github.com/zmcx16/PhotoMosaic-Artifact) [![OpenAI-Gym-Hearts Badge](https://img.shields.io/badge/-OpenAI%20Gym%20Hearts-darkslateblue?style=flat&logoColor=white)](https://github.com/zmcx16/OpenAI-Gym-Hearts) [![find-house-assistant-chrome-extension Badge](https://img.shields.io/badge/-find%20house%20assistant%20chrome%20extension-yellowgreen?style=flat&logoColor=white)](https://github.com/zmcx16/find-house-assistant-chrome-extension) [![MemoOffVocabulary Badge](https://img.shields.io/badge/-MemoOffVocabulary-magenta?style=flat&logoColor=white)](https://github.com/zmcx16/MemoOffVocabulary)   
-Side Projects - Web      | [![Side Project Badge](https://img.shields.io/badge/-project.zmcx16.moe-00fa9a?style=flat&logoColor=white)](https://project.zmcx16.moe/) [![Axis Cult Badge](https://img.shields.io/badge/-Axis%20Cult-00eeff?style=flat&logoColor=white)](https://axiscult.zmcx16.moe/) [![Norn Minehunter Badge](https://img.shields.io/badge/-Norn%20Minehunter-gold?style=flat&logoColor=white)](https://norn-minehunter.zmcx16.moe/) [![TW Stock Lottery Secretary Badge](https://img.shields.io/badge/-TW%20Stock%20Lottery%20Secretary-3b5998?style=flat&logoColor=white)](https://www.facebook.com/%E8%82%A1%E7%A5%A8%E6%8A%BD%E7%B1%A4%E5%B0%8F%E7%A7%98%E6%9B%B8-115560563215006/) [![Protobuf Deserializer Badge](https://img.shields.io/badge/-Protobuf%20Deserializer-red?style=flat&logoColor=white)](https://protobuf-deserializer.zmcx16.moe/)
-Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-johnmccourt000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/johnmccourt000/) [![Gmail Badge](https://img.shields.io/badge/-zmcx16-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:zmcx16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-zmcx16-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunningyou/)
 
+## Connect with me:
 
+<p align = "center">
 
+[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+</p>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- 
+----
+[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 <!--
-**johnsie/johnsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
