@@ -1,4 +1,4 @@
-### Hi there, I'm [John McCourt](https://johnsie.github.io) 👋
+### Hi there, I'm [John McCourt](https://johnmccourt.com) 👋
 
 I am a first year MSc Computer Science (Software Engineering) student at [Open University](https://open.ac.uk). Apart from that I am a software engineer at an in insurance company and enjoy writing articles (on Programming, Machine Learning, Data Science, Productivity and Computing Tips) and contributing to open source.
 
@@ -18,6 +18,10 @@ I am a first year MSc Computer Science (Software Engineering) student at [Open U
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+![PHP](https://img.shields.io/badge/PHP-ED8B00?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
+![C#](https://img.shields.io/badge/CSharp-ED8B00?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
@@ -33,7 +37,7 @@ I am a first year MSc Computer Science (Software Engineering) student at [Open U
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Database
-![T-SQL](https://img.shields.io/badge/SQL-ED8B00??style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+![T-SQL](https://img.shields.io/badge/T-SQL-ED8B00??style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
@@ -50,7 +54,7 @@ I am a first year MSc Computer Science (Software Engineering) student at [Open U
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
 
 
 
