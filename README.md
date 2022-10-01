@@ -18,7 +18,7 @@ I am a first year MSc Computer Science (Software Engineering) student at [Open U
 #### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-00080?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23150458?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/CSharp-23150458?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
