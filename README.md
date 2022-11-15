@@ -10,8 +10,8 @@ Thanks for vistiting. I am a Software Developer at an insurance firm and  first 
 
  **I am open to**:
 
-- any collobration work,
-- coding book clubs
+- Any collobration work,
+- Coding book clubs
 
 ## Skills:
 
