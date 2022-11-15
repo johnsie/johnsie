@@ -3,8 +3,10 @@
 I am a Software Developer at an insurance firm and  first year MSc Computer Science (Software Engineering) student. Apart from that I enjoy writing articles (on Programming, Machine Learning, Data Science, Productivity and Computing Tips) and contributing to open source.
 
 **My Interests**:
-- Software Development
-- Fitness and Distance Running
+- Software development
+- Fitness and distance running
+- Spending time with friends and family
+- Playing rugby
 
  **I am open to**:
 
