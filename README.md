@@ -12,7 +12,7 @@ Thanks for vistiting. I am a Software Developer at an insurance firm and  first 
 
 - Any collobration work,
 - Coding book clubs
-- Coffee chats about software and technology
+- Fifteen Minute Coffee chats about software and technology
 
 ## Skills:
 
