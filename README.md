@@ -1,6 +1,6 @@
 ### Hi there, I'm [John McCourt](https://johnmccourt.com) 👋
 
-I am a Software Developer at an insurance firm and  first year MSc Computer Science (Software Engineering) student. Apart from that I enjoy writing articles (on Programming, Machine Learning, Data Science, Productivity and Computing Tips) and contributing to open source.
+Thanks for vistiting. I am a Software Developer at an insurance firm and  first year MSc Computer Science (Software Engineering) student. Apart from that I enjoy writing short articles about programming and other things I'm learning, and contributing to open source. I love to meet new people, alnd learning from people in the industr, so  if you're reading this then  please feel free to make contact and we can have a 15 minute coffee chat.
 
 **My Interests**:
 - Software development
