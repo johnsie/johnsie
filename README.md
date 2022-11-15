@@ -12,8 +12,7 @@ Thanks for vistiting. I am a Software Developer at an insurance firm and  first 
 
 - any collobration work,
 - machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- coding book clubs
 
 ## Skills:
 
