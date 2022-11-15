@@ -10,7 +10,7 @@ Thanks for vistiting. I am a Software Developer at an insurance firm and  first 
 
  **I am open to**:
 
-- Any collobration work,
+- Any collobration work
 - Coding book clubs
 - Coffee chats about software and technology (See contact details)
 
