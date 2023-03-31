@@ -1,6 +1,6 @@
 ### Hi there, I'm [John McCourt](https://johnmccourt.com) 👋
 
-Thanks for the visit. Here you will find some of the hobby projects that I have been working on over the years.
+Thanks for visiting my humble github profile. Here you will find some of the hobby projects that I have been working on over the years.
 
 **My Interests**:
 - Reading books about technology and project management 
