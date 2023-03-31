@@ -1,8 +1,9 @@
 ### Hi there, I'm [John McCourt](https://johnmccourt.com) 👋
 
-Thanks for vistiting. I am a Software Developer at an insurance firm and  first year MSc Computer Science (Software Engineering) student. Apart from that I enjoy writing short articles about programming and other things I'm learning, and contributing to open source. I love to meet new people, and learning from people in the industry, so  if you're reading this then  please feel free to make contact.
+Thanks for the visit. Here you will find some of the hobby projects that I have been working on over the years.
 
 **My Interests**:
+- Reading books about technology and project management 
 - Software development
 - Fitness and distance running
 - Spending time with friends and family
