@@ -13,7 +13,7 @@ Thanks for the visit. Here you will find some of the hobby projects that I have 
 
 - Any collobration work
 - Coding book clubs
-- Coffee chats about software and technology (See contact details)
+- Coffee chats about software and technology (See contact details) either online or in person
 
 ## Skills:
 
