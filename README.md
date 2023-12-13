@@ -7,8 +7,8 @@ Thanks for visiting my humble github profile. Here you will find some of the hob
 - Software development
 - Fitness and distance running
 - Spending time with friends and family
-- Playing rugby
-
+- Choral singing
+  
  **I am open to**:
 
 - Any collobration work
