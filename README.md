@@ -24,6 +24,7 @@ Thanks for visiting my humble github profile. Here you will find some of the hob
 ![C#](https://img.shields.io/badge/CSharp-23150458?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![GoLang](https://img.shields.io/badge/GoLang-23150458?style=for-the-badge&logo=golang&logoColor=white)&nbsp;
 
 
 #### Database
