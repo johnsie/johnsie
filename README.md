@@ -11,7 +11,7 @@ Thanks for visiting my github profile. Here you will find some of the hobby proj
   
  **I am open to**:
 
-- Any collabration work
+- Any collaboration work
 - Coding book clubs
 - Coffee chats about software and technology (See contact details) either online or in person
 
