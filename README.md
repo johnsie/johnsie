@@ -11,7 +11,7 @@ Thanks for visiting my github profile. Here you will find some of the hobby proj
   
  **I am open to**:
 
-- Any collobration work
+- Any collabration work
 - Coding book clubs
 - Coffee chats about software and technology (See contact details) either online or in person
 
@@ -23,8 +23,6 @@ Thanks for visiting my github profile. Here you will find some of the hobby proj
 ![PHP](https://img.shields.io/badge/PHP-%23150458?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/CSharp-23150458?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![GoLang](https://img.shields.io/badge/GoLang-23150458?style=for-the-badge&logo=golang&logoColor=white)&nbsp;
 
 
 #### Database
@@ -45,10 +43,6 @@ Thanks for visiting my github profile. Here you will find some of the hobby proj
 #### IDEs
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-
-
 
 
 ## Connect with me:
