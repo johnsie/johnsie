@@ -22,7 +22,6 @@ Thanks for visiting my github profile. Here you will find some of the hobby proj
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23150458?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/CSharp-23150458?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 
 #### Database
