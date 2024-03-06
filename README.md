@@ -15,7 +15,7 @@ Thanks for visiting my github profile. Here you will find some of the hobby proj
 - Coding book clubs
 - Coffee chats about software and technology (See contact details) either online or in person
 
-[//]: #  ## Skills:
+## Skills:
 
 #### Languages:
 
