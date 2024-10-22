@@ -1,20 +1,14 @@
-### Hi there, I'm [John McCourt](https://johnmccourt.com) 👋
+### [John McCourt](https://johnmccourt.com)
 
-Thanks for visiting my github profile. Here you will find some of the hobby projects that I have been working on over the years.
 
-**My Interests**:
+
+**Interests**:
 - Reading books about technology and project management 
 - Software development
 - Fitness and distance running
 - Spending time with friends and family
 - Choral singing
   
- **I am open to**:
-
-- Any collaboration work
-- Coding book clubs
-- Coffee chats about software and technology (See contact details) either online or in person
-
 ## Skills:
 
 #### Languages:
