@@ -28,16 +28,24 @@ Java, C#, PHP
 #### Database
 SQL Server, MySQL, PostGRES, SQLITE
 
-#### Tools and Technologies
+#### Infrastrcture Tools and Technologies
 
-Linux, Windows Server, Active Directory, Zabbix, Nagios, Modbus
+Linux, Windows Server, Active Directory, Entra, Autpilot, Zabbix, Nagios, Modbus, VMWare
 
 
 #### CI/CD
 
-Version control, Gitlab, Github, Git, Devlops. Best practice use of branching and merging
-Pipelines including automate deploy to dev, test, uat, production
-Code analysis with Sonarqube built into pipelines
+Agile
+
+Version control with Gitlab, Github, Git, Azure Devops, TFS. Best practice use of branching and merging
+
+Snow Card for requirements
+
+Kanban for user stories
+
+Automated CI/CD pipelines including deploy to dev, test, uat, production
+
+Code analysis with Sonarqube as part of my piplines
 
 
 #### IDEs
