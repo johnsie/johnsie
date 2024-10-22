@@ -8,6 +8,17 @@
 - Fitness and distance running
 - Spending time with friends and family
 - Participation in musical theatre
+
+### Qualification
+Currently studying Networks Security module for masters in Computing (Software Engineering).
+
+Previous Modules:
+
+Software Engineering, Software Development, Digital Forensics
+
+Previous Qualifications:
+
+Open BSc (Hons), Software Engineering University Diploma.
   
 ## Skills:
 
@@ -19,7 +30,7 @@ SQL Server, MySQL, PostGRES, SQLITE
 
 #### Tools and Technologies
 
-Linux, Windows Server, Active Directory, 
+Linux, Windows Server, Active Directory, Zabbix, Nagios, Modbus
 
 
 #### CI/CD
