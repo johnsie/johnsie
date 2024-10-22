@@ -29,12 +29,10 @@ Java, C#, PHP
 SQL Server, MySQL, PostGRES, SQLITE
 
 #### Infrastrcture Tools and Technologies
-
 Linux, Windows Server, Active Directory, Entra, Autpilot, Zabbix, Nagios, Modbus, VMWare
 
 
 #### CI/CD
-
 Agile
 
 Version control with Gitlab, Github, Git, Azure Devops, TFS. Best practice use of branching and merging
