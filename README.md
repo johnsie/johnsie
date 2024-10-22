@@ -7,7 +7,7 @@
 - Software development
 - Fitness and distance running
 - Spending time with friends and family
-- Choral singing
+- Participation in musical theatre
   
 ## Skills:
 
