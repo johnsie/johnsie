@@ -10,7 +10,7 @@
 - Participation in musical theatre
 
 ### Qualification
-Currently studying Networks Security module for masters in Computing (Software Engineering).
+Currently studying Network Security module for masters in Computing (Software Engineering).
 
 Previous Modules:
 
