@@ -12,11 +12,11 @@
 ### Qualification
 Currently studying Network Security module for masters in Computing (Software Engineering).
 
-Previous Modules:
+Previously Completed Modules:
 
 Software Engineering, Software Development, Digital Forensics
 
-Previous Qualifications:
+Other Qualifications:
 
 Open BSc (Hons), Software Engineering University Diploma.
   
