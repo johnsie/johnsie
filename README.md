@@ -1,5 +1,3 @@
-### [John McCourt](https://johnmccourt.com)
-
 
 
 **Interests**:
