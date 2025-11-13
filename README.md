@@ -7,16 +7,6 @@
 - Spending time with friends and family
 - Participation in musical theatre
 
-### Qualification
-Currently studying Network Security module for masters in Computing (Software Engineering).
-
-Previously Completed Modules:
-
-Software Engineering, Software Development, Digital Forensics
-
-Other Qualifications:
-
-Open BSc (Hons), Software Engineering University Diploma.
   
 ## Skills:
 
