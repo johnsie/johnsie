@@ -1,6 +1,6 @@
 
 
-**Interests**:
+## Interests:
 - Reading books about technology and project management 
 - Software development
 - Fitness and distance running
